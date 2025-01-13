@@ -14,7 +14,10 @@ By applying statistical methods and data modeling techniques, I provided actiona
 * Top 5 Products based on Qty
 * Bottom 5 Products based on Qty
 * Top 5 countries
-* New Product in 2021
-  
-
+* New Product in 2021<br>
+### Finance Insights<br>
+* P & L by Year
+* P & L by Month
+* P & L by Market
+* GM% by Sub Zone<br>
 
