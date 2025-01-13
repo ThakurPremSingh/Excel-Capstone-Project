@@ -7,13 +7,14 @@ Sales Report Insights: Conducted a thorough evaluation of customer sales data, t
 In the Market Performance and Sales Targets Comparison Report, I performed a detailed analysis of actual market performance against set sales targets, using key metrics and visualizations to assess the effectiveness of sales strategies.<br>
 By applying statistical methods and data modeling techniques, I provided actionable insights that support informed decision-making, helping to refine marketing efforts, optimize sales tactics, and allocate resources more effectively<br>
 #### Sales Insights Reports
-* 1.	Customer Performance Report
-2.	Market Performance Report
-3.	Top 10 Products
-4.	Division Level
-5.	Top 5 Products
-6.	Bottom 5 Products
-7.	New Product - 2021
-8.	Top 5 countries
+* Net Sales Performance Report
+* Market performance vs Targets Report
+* Top 10 Products
+* Division Level
+* Top 5 Products based on Qty
+* Bottom 5 Products based on Qty
+* Top 5 countries
+* New Product in 2021
+  
 
 
