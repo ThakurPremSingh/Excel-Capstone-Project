@@ -23,9 +23,8 @@ Additionally, I developed market-specific P&L Reports, benchmarking financial pe
 * P & L by Month
 * P & L by Market
 * GM% by Sub Zone<br>
-<br>
-[Linkedln Post] https://www.linkedin.com/feed/update/urn:li:activity:7284469116990566400/
-<br>
+
+[Linkedln Post] https://www.linkedin.com/feed/update/urn:li:activity:7284469116990566400/<br><br>
 ### Technical skills<br>
 I have upskilled myself in various Excel functionalities, including:<br>
 🔸 Navigating and utilizing the UI of Microsoft Excel.<br>
