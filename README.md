@@ -24,13 +24,13 @@ Additionally, I developed market-specific P&L Reports, benchmarking financial pe
 * P & L by Market
 * GM% by Sub Zone<br>
 ### Technical skills<br>
-I have upskilled myself in various Excel functionalities, including:
-🔸 Navigating and utilizing the UI of Microsoft Excel.
-🔸Mastering advanced lookup functions such as VLOOKUP, INDEX & MATCH, and XLOOKUP.
-🔸Performing unit conversions within Excel.
-🔸Calculating statistical measures like Mean, Median, and Mode.
-🔸Understanding and applying concepts like Standard Deviation, Variance, and Correlation.
-🔸Leveraging Power Query and M-Language for data transformation.
-🔸Utilizing Pivot Tables and Power Pivot with DAX for advanced data analysis.
-🔸Executing Extract, Transform, and Load (ETL) processes within Excel.
-🔸Applying Conditional Formatting to enhance data visualization and insights.
+I have upskilled myself in various Excel functionalities, including:<br>
+🔸 Navigating and utilizing the UI of Microsoft Excel.<br>
+🔸Mastering advanced lookup functions such as VLOOKUP, INDEX & MATCH, and XLOOKUP.<br>
+🔸Performing unit conversions within Excel.<br>
+🔸Calculating statistical measures like Mean, Median, and Mode.<br>
+🔸Understanding and applying concepts like Standard Deviation, Variance, and Correlation.<br>
+🔸Leveraging Power Query and M-Language for data transformation.<br>
+🔸Utilizing Pivot Tables and Power Pivot with DAX for advanced data analysis.<br>
+🔸Executing Extract, Transform, and Load (ETL) processes within Excel.<br>
+🔸Applying Conditional Formatting to enhance data visualization and insights.<br>
