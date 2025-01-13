@@ -24,7 +24,7 @@ Additionally, I developed market-specific P&L Reports, benchmarking financial pe
 * P & L by Market
 * GM% by Sub Zone<br>
 
-[Linkedln Post] https://www.linkedin.com/feed/update/urn:li:activity:7284469116990566400/<br><br>
+[Linkedln Post] https://www.linkedin.com/feed/update/urn:li:activity:7284469116990566400/<br>
 ### Technical skills<br>
 I have upskilled myself in various Excel functionalities, including:<br>
 🔸 Navigating and utilizing the UI of Microsoft Excel.<br>
@@ -36,3 +36,5 @@ I have upskilled myself in various Excel functionalities, including:<br>
 🔸Utilizing Pivot Tables and Power Pivot with DAX for advanced data analysis.<br>
 🔸Executing Extract, Transform, and Load (ETL) processes within Excel.<br>
 🔸Applying Conditional Formatting to enhance data visualization and insights.<br>
+### Soft skill<br>
+Delivering a presentation on a topic significantly enhances my comprehension by requiring me to delve deeper into the subject matter, organize my thoughts clearly, and articulate key concepts effectively.
