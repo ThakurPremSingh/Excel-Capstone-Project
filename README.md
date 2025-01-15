@@ -36,5 +36,21 @@ I have upskilled myself in various Excel functionalities, including:<br>
 🔸Utilizing Pivot Tables and Power Pivot with DAX for advanced data analysis.<br>
 🔸Executing Extract, Transform, and Load (ETL) processes within Excel.<br>
 🔸Applying Conditional Formatting to enhance data visualization and insights.<br>
+
+## Business related terms<br>
+- Gross price<br>
+- Pre-invoice deductions<br>
+- Post-Invoice deductions<br>
+- Net Invoice sale<br>
+- Gross Margin<br>
+- Net sales<br>
+- Net profit<br>
+- COGC (cost of goods sold)<br>
+- YTD (Year to Date)<br>
+- YTG (Year to Go)<br>
+- Direct channel<br>
+- Retailer<br>
+- Distributors<br>
+- Consumer<br>
 ### Soft skill<br>
 Delivering a presentation on a topic significantly enhances my comprehension by requiring me to delve deeper into the subject matter, organize my thoughts clearly, and articulate key concepts effectively.
