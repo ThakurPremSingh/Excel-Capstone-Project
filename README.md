@@ -37,7 +37,7 @@ I have upskilled myself in various Excel functionalities, including:<br>
 🔸Executing Extract, Transform, and Load (ETL) processes within Excel.<br>
 🔸Applying Conditional Formatting to enhance data visualization and insights.<br>
 
-## Business related terms<br>
+### Business related terms<br>
 - Gross price<br>
 - Pre-invoice deductions<br>
 - Post-Invoice deductions<br>
